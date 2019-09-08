@@ -17,12 +17,20 @@ GETTING STARTED
 --------------------------------------------------------
 git config --global user.name 'Krupesh'
 git config --global user.email 'kmanadkat@gmail.com'
-git add index.html
-git commit -m 'Adding Index.html'
 
 
 GIT IGNORE
 --------------------------------------------------------
-touch .gitignore          // Create .gitignore file
 Add <file names> and </directories> which git should not
 commit or track
+
+
+GIT Branches
+--------------------------------------------------------
+Make copies/branches of project and work in them 
+individually to implement features, without disturbing
+the initially coded project.After the branch job -> 
+new feature creation, is completed merge it with "master" 
+branch
+
+git branch <name>
