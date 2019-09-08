@@ -24,3 +24,5 @@ git commit -m 'Adding Index.html'
 GIT IGNORE
 --------------------------------------------------------
 touch .gitignore          // Create .gitignore file
+Add <file names> and </directories> which git should not
+commit or track
