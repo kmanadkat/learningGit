@@ -1,7 +1,7 @@
-## Git Tutorial
+## Learning Git Command line : Sunday Celebration!
 
 ### BASIC COMMANDS
-----------------------------------------------------------
+---
 ```shell
 git init                  # Initialize Local Git Repo
 git add {file}            # Add File(s) to Index
@@ -17,7 +17,7 @@ git clone                 # Clone Repo into a new folder
 
 
 ### GETTING STARTED
---------------------------------------------------------
+---
 ```shell
 git config --global user.name 'Krupesh'
 git config --global user.email 'kmanadkat@gmail.com'
@@ -25,14 +25,14 @@ git config --global user.email 'kmanadkat@gmail.com'
 
 
 ### GIT IGNORE
---------------------------------------------------------
+---
 Add ```{file names}``` and ```{directories}``` which git should not
 commit or track
 
 
 
 ### GIT Branches
---------------------------------------------------------
+---
 Make copies/branches of project and work in them 
 individually to implement features, without disturbing
 the initially coded project.After the branch job -> 
