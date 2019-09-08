@@ -18,3 +18,9 @@ GETTING STARTED
 git config --global user.name 'Krupesh'
 git config --global user.email 'kmanadkat@gmail.com'
 git add index.html
+git commit -m 'Adding Index.html'
+
+
+GIT IGNORE
+--------------------------------------------------------
+touch .gitignore          // Create .gitignore file
