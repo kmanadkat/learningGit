@@ -6,6 +6,7 @@ git add .                 // Adds Everything to git stage
 git rm --cached <file>    // Removes File from git stage
 git status	              // Check status of Working tree
 git commit	              // Commit Changes in Index
+git commit -m 'msg'       // Commit quickly with msg
 
 git push 	                // Push to Remote Repo
 git pull	                // Pull Latest From Remote Repo
