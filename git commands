@@ -33,4 +33,5 @@ the initially coded project.After the branch job ->
 new feature creation, is completed merge it with "master" 
 branch
 
-git branch <name>
+git branch <name>         // Create Branch
+git checkout <name>       // Switch to branch
